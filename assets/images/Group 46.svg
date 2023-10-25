@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320.5" height="117.04" viewBox="0 0 320.5 117.04">
+  <g id="Group_46" data-name="Group 46" transform="translate(-341 -277.96)">
+    <path id="Path_38" data-name="Path 38" d="M1092.259,630.7l-144.008.026a68.565,68.565,0,0,1-25.592,43.689h159.52a12.3,12.3,0,0,0,11.16-6.73l17.922-36.437Z" transform="translate(-480.893 -283.862)" fill="#001a68"/>
+    <path id="Path_39" data-name="Path 39" d="M58.52,117.04a58.52,58.52,0,1,1,58.52-58.52,58.52,58.52,0,0,1-58.52,58.52" transform="translate(341 277.96)" fill="#ff671f"/>
+    <path id="Path_40" data-name="Path 40" d="M1166.454,77.888H966.011A68.428,68.428,0,0,1,987.65,127.9a69.161,69.161,0,0,1-.784,10.4l166.339.5a14.543,14.543,0,0,0,13.529-8.949L1179.984,97.2c3.76-9.271-3.273-19.309-13.53-19.309" transform="translate(-519.51 208.578)" fill="#ff671f"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="320.5" height="117.04" transform="translate(341 277.96)" fill="none"/>
+    <text id="FREE" transform="translate(487 335)" fill="#fff" font-size="44" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">FREE</tspan></text>
+    <text id="Webinar" transform="translate(487 377)" fill="#fff" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">WEBINAR</tspan></text>
+    <path id="Icon_awesome-video" data-name="Icon awesome-video" d="M34.987,4.5H4.974A4.974,4.974,0,0,0,0,9.474V39.487a4.974,4.974,0,0,0,4.974,4.974H34.987a4.974,4.974,0,0,0,4.974-4.974V9.474A4.974,4.974,0,0,0,34.987,4.5ZM54.7,8.423,43.291,16.291V32.67L54.7,40.527a3.337,3.337,0,0,0,5.245-2.685V11.108A3.338,3.338,0,0,0,54.7,8.423Z" transform="translate(369.549 312)" fill="#fff"/>
+  </g>
+</svg>
